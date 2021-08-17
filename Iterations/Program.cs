@@ -66,7 +66,11 @@ namespace Iterations
             // solutions.Question2();
             // solutions.Factorial();
             // solutions.GuessingGame();
-            solutions.findMaximum();
+            // solutions.findMaximum();
+
+            var password = new Password();
+            password.PasswordGenerator();
+            System.Console.WriteLine("Random Password Generator: "+ password.SecurePassword());
         }
     }
 }
