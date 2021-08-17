@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharpClasses/obj/Debug/net5.0/CSharpClasses.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharpClasses/obj/Debug/net5.0/CSharpClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharpClasses/obj/Debug/net5.0/CSharpClasses.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharpClasses/obj/Debug/net5.0/CSharpClasses.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharpClasses/obj/Debug/net5.0/CSharpClasses.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharpClasses/bin/Debug/net5.0/CSharpClasses
+/home/yella/Documents/C# Crash Course/CSharpClasses/bin/Debug/net5.0/CSharpClasses.deps.json
+/home/yella/Documents/C# Crash Course/CSharpClasses/bin/Debug/net5.0/CSharpClasses.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharpClasses/bin/Debug/net5.0/CSharpClasses.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharpClasses/bin/Debug/net5.0/CSharpClasses.dll
+/home/yella/Documents/C# Crash Course/CSharpClasses/bin/Debug/net5.0/ref/CSharpClasses.dll
+/home/yella/Documents/C# Crash Course/CSharpClasses/bin/Debug/net5.0/CSharpClasses.pdb
+/home/yella/Documents/C# Crash Course/CSharpClasses/obj/Debug/net5.0/CSharpClasses.dll
+/home/yella/Documents/C# Crash Course/CSharpClasses/obj/Debug/net5.0/ref/CSharpClasses.dll
+/home/yella/Documents/C# Crash Course/CSharpClasses/obj/Debug/net5.0/CSharpClasses.pdb
+/home/yella/Documents/C# Crash Course/CSharpClasses/obj/Debug/net5.0/CSharpClasses.genruntimeconfig.cache
