@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/yella/Documents/C# Crash Course/CSharpClasses/CSharpClasses.csproj": {}
+    "/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/CSharpClasses/CSharpClasses.csproj": {}
   },
   "projects": {
-    "/home/yella/Documents/C# Crash Course/CSharpClasses/CSharpClasses.csproj": {
+    "/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/CSharpClasses/CSharpClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yella/Documents/C# Crash Course/CSharpClasses/CSharpClasses.csproj",
+        "projectUniqueName": "/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/CSharpClasses/CSharpClasses.csproj",
         "projectName": "CSharpClasses",
-        "projectPath": "/home/yella/Documents/C# Crash Course/CSharpClasses/CSharpClasses.csproj",
+        "projectPath": "/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/CSharpClasses/CSharpClasses.csproj",
         "packagesPath": "/home/yella/.nuget/packages/",
-        "outputPath": "/home/yella/Documents/C# Crash Course/CSharpClasses/obj/",
+        "outputPath": "/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/CSharpClasses/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/yella/.nuget/NuGet/NuGet.Config"
