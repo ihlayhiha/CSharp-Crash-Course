@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Arrays
 {
@@ -75,6 +76,16 @@ namespace Arrays
             foreach (var  i in normalArray)
                 System.Console.WriteLine(i);
 
+
+            // var list = new AboutLists();
+            // list.Lists();
+
+            var solution = new Challenges();
+            // solution.facebookPattern();
+            // solution.ReverseName();
+            // solution.DistinctSort();
+            // solution.UniqueSearch();
+            solution.CommaList();
         }
     }
 }
