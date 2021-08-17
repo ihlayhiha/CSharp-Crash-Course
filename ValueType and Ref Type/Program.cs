@@ -21,6 +21,7 @@ namespace ValueType_and_Ref_Type
 
             // if u change the value of first element in array2, value of first element also changes in array1
             Console.WriteLine($"array1: {string.Join(", ", array1)}\narray2: {string.Join(", ", array2)}");
+            Console.WriteLine(string.Format("Array1: {0}\nArray2: {0}", string.Join(", ", array1), string.Join(", ", array2)));
 
         }
     }

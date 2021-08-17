@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yella/Documents/C# Crash Course/ValueType and Ref Type/ValueType and Ref Type.csproj",
+      "projectUniqueName": "/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/ValueType and Ref Type.csproj",
       "projectName": "ValueType and Ref Type",
-      "projectPath": "/home/yella/Documents/C# Crash Course/ValueType and Ref Type/ValueType and Ref Type.csproj",
+      "projectPath": "/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/ValueType and Ref Type.csproj",
       "packagesPath": "/home/yella/.nuget/packages/",
-      "outputPath": "/home/yella/Documents/C# Crash Course/ValueType and Ref Type/obj/",
+      "outputPath": "/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/yella/.nuget/NuGet/NuGet.Config"

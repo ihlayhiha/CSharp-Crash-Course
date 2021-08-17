@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7NxycpMJltstl8iI8MzT389g5EIDJRg5hOs/O3CtfDpYq5HzoLKxqgttOzIqd7QvRv5hrHkNrpSvpNDPaST+A==",
+  "dgSpecHash": "UlK/Y5Sz2bf4pbepy2ww2l8RdyHFarQji9hjyzXPxaIph/ownTTADLRQ4z8S3IOHw7Gva0uRlzKQgrLe+EJD6A==",
   "success": true,
-  "projectFilePath": "/home/yella/Documents/C# Crash Course/ValueType and Ref Type/ValueType and Ref Type.csproj",
+  "projectFilePath": "/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/ValueType and Ref Type.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

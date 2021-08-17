@@ -14,3 +14,19 @@
 /home/yella/Documents/C# Crash Course/ValueType and Ref Type/obj/Debug/net5.0/ref/ValueType and Ref Type.dll
 /home/yella/Documents/C# Crash Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.pdb
 /home/yella/Documents/C# Crash Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.genruntimeconfig.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/bin/Debug/net5.0/ValueType and Ref Type
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/bin/Debug/net5.0/ValueType and Ref Type.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/bin/Debug/net5.0/ValueType and Ref Type.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/bin/Debug/net5.0/ValueType and Ref Type.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/bin/Debug/net5.0/ValueType and Ref Type.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/bin/Debug/net5.0/ref/ValueType and Ref Type.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/bin/Debug/net5.0/ValueType and Ref Type.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/Debug/net5.0/ref/ValueType and Ref Type.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ValueType and Ref Type/obj/Debug/net5.0/ValueType and Ref Type.genruntimeconfig.cache
