@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/bin/Debug/net5.0/ifElse Conditional
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/bin/Debug/net5.0/ifElse Conditional.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/bin/Debug/net5.0/ifElse Conditional.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/bin/Debug/net5.0/ifElse Conditional.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/bin/Debug/net5.0/ifElse Conditional.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/bin/Debug/net5.0/ref/ifElse Conditional.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/bin/Debug/net5.0/ifElse Conditional.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/obj/Debug/net5.0/ifElse Conditional.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/obj/Debug/net5.0/ifElse Conditional.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/obj/Debug/net5.0/ifElse Conditional.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/obj/Debug/net5.0/ifElse Conditional.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/obj/Debug/net5.0/ifElse Conditional.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/obj/Debug/net5.0/ifElse Conditional.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/obj/Debug/net5.0/ref/ifElse Conditional.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/obj/Debug/net5.0/ifElse Conditional.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/ifElse Conditional/obj/Debug/net5.0/ifElse Conditional.genruntimeconfig.cache
