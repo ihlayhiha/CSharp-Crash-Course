@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/bin/Debug/net5.0/switchCase Conditional
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/bin/Debug/net5.0/switchCase Conditional.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/bin/Debug/net5.0/switchCase Conditional.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/bin/Debug/net5.0/switchCase Conditional.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/bin/Debug/net5.0/switchCase Conditional.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/bin/Debug/net5.0/ref/switchCase Conditional.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/bin/Debug/net5.0/switchCase Conditional.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/obj/Debug/net5.0/switchCase Conditional.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/obj/Debug/net5.0/switchCase Conditional.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/obj/Debug/net5.0/switchCase Conditional.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/obj/Debug/net5.0/switchCase Conditional.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/obj/Debug/net5.0/switchCase Conditional.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/obj/Debug/net5.0/switchCase Conditional.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/obj/Debug/net5.0/ref/switchCase Conditional.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/obj/Debug/net5.0/switchCase Conditional.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/switchCase Conditional/obj/Debug/net5.0/switchCase Conditional.genruntimeconfig.cache
