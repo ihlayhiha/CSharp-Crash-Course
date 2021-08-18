@@ -51,7 +51,11 @@ namespace Working_with_Files___Directories_and_Paths
             // Using Directory and DirectoryInfo Classes
             UsingDirectoryClasses.Printables();
 
-            
+            UsingPathClass.Printables();
+
+            // Challenges
+            Challenges.NumberOfWords();
+            Challenges.LongestWord();
 
         }
     }
