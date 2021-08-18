@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/bin/Debug/net5.0/Working with Files,  Directories and Paths
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/bin/Debug/net5.0/Working with Files,  Directories and Paths.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/bin/Debug/net5.0/Working with Files,  Directories and Paths.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/bin/Debug/net5.0/Working with Files,  Directories and Paths.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/bin/Debug/net5.0/Working with Files,  Directories and Paths.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/bin/Debug/net5.0/ref/Working with Files,  Directories and Paths.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/bin/Debug/net5.0/Working with Files,  Directories and Paths.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/obj/Debug/net5.0/Working with Files,  Directories and Paths.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/obj/Debug/net5.0/Working with Files,  Directories and Paths.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/obj/Debug/net5.0/Working with Files,  Directories and Paths.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/obj/Debug/net5.0/Working with Files,  Directories and Paths.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/obj/Debug/net5.0/Working with Files,  Directories and Paths.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/obj/Debug/net5.0/Working with Files,  Directories and Paths.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/obj/Debug/net5.0/ref/Working with Files,  Directories and Paths.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/obj/Debug/net5.0/Working with Files,  Directories and Paths.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Working with Files,  Directories and Paths/obj/Debug/net5.0/Working with Files,  Directories and Paths.genruntimeconfig.cache

@@ -8,6 +8,12 @@ namespace StringBuilders
     {
         static void Main(string[] args)
         {
+            // strings
+            var randString = "A brown fox kills the cat   ";
+            // methods on strings create new strings. Does not change the original string
+            Console.WriteLine("SubString from 1-10:" + randString.Substring(1, 10));
+            Console.WriteLine("Using Trim: '{0}'", randString.Trim());
+
             // Using StringBuilders
             var builder = new StringBuilder();
             builder
@@ -55,11 +61,8 @@ namespace StringBuilders
             else
             {
                 var inputArray = line2.Split('-');
-                foreach (var str in line2)
-                    Console.WriteLine(str);
-
-                var checkList = new List<int>();
-                foreach (var str  in line2)
+                var checkList = new List<string>();
+                foreach (var str  in inputArray)
                 {
                     if (checkList.Contains(str))
                         return "Duplicate";
