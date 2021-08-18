@@ -43,7 +43,7 @@ namespace Arrays
             System.Console.WriteLine("Index position of {0} in normalArray is {1}", 3, Array.IndexOf(normalArray, 5));
 
 
-            // Array.Clear()  method
+            // Array.Clear() static method
             // 3 parameters. 1st - array, 2nd - starting index value, 3rd - length (how many values you want to clear)
             // Clearing means setting the items to the respective type's default values
             Array.Clear(normalArray, 0, 2);
@@ -52,7 +52,7 @@ namespace Arrays
                 System.Console.WriteLine(i);
 
             
-            // Array.Copy() method
+            // Array.Copy() static method
             // needs 3 parameters, 1st Array, 2nd new array where we want to copy  to, 3rd length (how many elements you are copying)
             var copiedArray = new int[3];
             Array.Copy(normalArray, copiedArray, 3);
@@ -61,7 +61,7 @@ namespace Arrays
                 System.Console.WriteLine(i);
 
 
-            // Array.Sort() method
+            // Array.Sort() static method
             // changes the original array and sorts it
             Array.Sort(normalArray);
             System.Console.WriteLine("Using Array.Sort() method on normalArray");
@@ -69,7 +69,7 @@ namespace Arrays
                 System.Console.WriteLine(i);
 
 
-            // Array.Reverse() method
+            // Array.Reverse() static method
             // reverses the array
             Array.Reverse(normalArray);
             System.Console.WriteLine("Reversing the array");
