@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace PracticeStuff
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var names = new List<string>(){"Ravi", "Pardhu", "Harsha"};
+            var linkedList = new LinkedList<string>(names);
+            var firstName = linkedList.First;
+            Console.WriteLine("First name" + firstName);
+            foreach (var name in linkedList)
+            {
+                Console.WriteLine(name);
+            }
+            Console.WriteLine("My own DoublyCircularLinkedList");
+            Console.WriteLine();
+
+
+            var newDCLL = new DoublyCircularLinkedList();
+
+            newDCLL.Traverse();
+            newDCLL.Traverse();
+
+            newDCLL.CreateDLL(10);
+            newDCLL.Traverse();
+
+            for (var i = 0; i < 5; i++)
+            {
+                newDCLL.Add(i);
+            }
+            newDCLL.Traverse();
+
+
+
+            newDCLL.Insert(100, 0);
+            newDCLL.Traverse();
+
+            newDCLL.Delete(-1);
+            newDCLL.Traverse();
+
+            newDCLL.DeleteHead();
+            newDCLL.DeleteHead();
+            newDCLL.Traverse();
+
+        }
+    }
+}
