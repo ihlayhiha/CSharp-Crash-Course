@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/bin/Debug/net5.0/DateTime type
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/bin/Debug/net5.0/DateTime type.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/bin/Debug/net5.0/DateTime type.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/bin/Debug/net5.0/DateTime type.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/bin/Debug/net5.0/DateTime type.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/bin/Debug/net5.0/ref/DateTime type.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/bin/Debug/net5.0/DateTime type.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/obj/Debug/net5.0/DateTime type.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/obj/Debug/net5.0/DateTime type.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/obj/Debug/net5.0/DateTime type.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/obj/Debug/net5.0/DateTime type.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/obj/Debug/net5.0/DateTime type.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/obj/Debug/net5.0/DateTime type.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/obj/Debug/net5.0/ref/DateTime type.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/obj/Debug/net5.0/DateTime type.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/DateTime Structure/obj/Debug/net5.0/DateTime type.genruntimeconfig.cache
