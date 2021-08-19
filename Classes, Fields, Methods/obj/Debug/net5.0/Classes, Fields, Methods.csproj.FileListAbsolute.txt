@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/obj/Debug/net5.0/Classes, Fields, Methods.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/obj/Debug/net5.0/Classes, Fields, Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/obj/Debug/net5.0/Classes, Fields, Methods.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/obj/Debug/net5.0/Classes, Fields, Methods.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/obj/Debug/net5.0/Classes, Fields, Methods.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/bin/Debug/net5.0/Classes, Fields, Methods
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/bin/Debug/net5.0/Classes, Fields, Methods.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/bin/Debug/net5.0/Classes, Fields, Methods.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/bin/Debug/net5.0/Classes, Fields, Methods.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/bin/Debug/net5.0/Classes, Fields, Methods.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/bin/Debug/net5.0/ref/Classes, Fields, Methods.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/bin/Debug/net5.0/Classes, Fields, Methods.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/obj/Debug/net5.0/Classes, Fields, Methods.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/obj/Debug/net5.0/ref/Classes, Fields, Methods.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/obj/Debug/net5.0/Classes, Fields, Methods.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Classes, Fields, Methods/obj/Debug/net5.0/Classes, Fields, Methods.genruntimeconfig.cache
