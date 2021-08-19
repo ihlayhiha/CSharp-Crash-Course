@@ -56,7 +56,7 @@ namespace PracticeStuff
             }
             System.Console.Write("AnotherDCLL: ");
             anotherDCLL.Traverse();
-            System.Console.WriteLine("Length of this LinkedList: "+ anotherDCLL.Length());
+            System.Console.WriteLine("Length of this LinkedList: "+ anotherDCLL.Length);
             Challenges.ReturnKthLast(anotherDCLL, 2);
             Challenges.ReturnKthLast(anotherDCLL, 6);
             Challenges.ReturnKthLast(anotherDCLL, 2);

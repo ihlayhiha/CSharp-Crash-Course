@@ -7,22 +7,25 @@ namespace PracticeStuff
         public Node head;
         public Node tail;
         
-        public int Length()
+        public int Length
         {
-            if (this.head == null)
-                return 0;
-            else if (this.head == this.tail)
-                return 1;
-            else
-            {   
-                var count = 1;
-                var node = this.head.next;
-                while (node != this.head)
-                {
-                    count ++;
-                    node = node.next;
+            get
+            {
+                if (this.head == null)
+                    return 0;
+                else if (this.head == this.tail)
+                    return 1;
+                else
+                {   
+                    var count = 1;
+                    var node = this.head.next;
+                    while (node != this.head)
+                    {
+                        count ++;
+                        node = node.next;
+                    }
+                    return count;
                 }
-                return count;
             }
         }
 

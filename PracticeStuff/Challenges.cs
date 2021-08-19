@@ -6,7 +6,7 @@ namespace PracticeStuff
     {
         public static void ReturnKthLast(DoublyCircularLinkedList randList, int k)
         {
-            if (k < 1 || k > randList.Length())
+            if (k < 1 || k > randList.Length)
                 throw new ArgumentOutOfRangeException("Given index is out of range");
             if (randList.head == null)
                 return;
