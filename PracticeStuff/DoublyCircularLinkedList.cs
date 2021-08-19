@@ -7,11 +7,11 @@ namespace PracticeStuff
         public Node head;
         public Node tail;
         
-        public DoublyCircularLinkedList()
-        {
-            this.head = null;
-            this.tail = null;
-        }
+        // public DoublyCircularLinkedList()
+        // {
+        //     this.head = null;
+        //     this.tail = null;
+        // }
 
         public void Traverse()
         {
