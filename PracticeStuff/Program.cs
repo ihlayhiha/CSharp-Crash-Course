@@ -44,7 +44,22 @@ namespace PracticeStuff
             newDCLL.DeleteHead();
             newDCLL.DeleteHead();
             newDCLL.Traverse();
+            Solutions();
 
+        }
+        static void Solutions()
+        {
+            var anotherDCLL = new  DoublyCircularLinkedList();
+            for (var i = 0; i < 6; i++)
+            {
+                anotherDCLL.Add(i);
+            }
+            System.Console.Write("AnotherDCLL: ");
+            anotherDCLL.Traverse();
+            System.Console.WriteLine("Length of this LinkedList: "+ anotherDCLL.Length());
+            Challenges.ReturnKthLast(anotherDCLL, 2);
+            Challenges.ReturnKthLast(anotherDCLL, 6);
+            Challenges.ReturnKthLast(anotherDCLL, 2);
         }
     }
 }
