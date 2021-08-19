@@ -35,7 +35,7 @@ namespace PracticeStuff
 
 
 
-            newDCLL.Insert(100, 0);
+            newDCLL.Add(100, 0);
             newDCLL.Traverse();
 
             newDCLL.Delete(-1);

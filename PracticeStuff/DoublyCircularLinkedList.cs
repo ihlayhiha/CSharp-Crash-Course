@@ -58,13 +58,13 @@ namespace PracticeStuff
             }
         }
 
-        public void Insert(int nodeValue, int location)
+        public void Add(int nodeValue, int location)
         {
             if (this.head == null)
             {
                 if (location == 0 || location == 1)
                 {
-                    this.CreateDLL(nodeValue);
+                    CreateDLL(nodeValue);
                     return;
                 }
             }
@@ -81,7 +81,7 @@ namespace PracticeStuff
                 }
                 else if (location == -1)
                 {
-                    this.Add(nodeValue);
+                    Add(nodeValue);
                 }
                 else
                 {
@@ -142,12 +142,12 @@ namespace PracticeStuff
             {
                 if (location == 0)
                 {
-                    this.DeleteHead();
+                    DeleteHead();
                     return;
                 }
                 else if (location == -1)
                 {
-                    this.DeleteTail();
+                    DeleteTail();
                     return;
                 }
                 else
@@ -163,7 +163,7 @@ namespace PracticeStuff
                     }
                     if (tempNode.next == this.head)
                     {
-                        this.DeleteTail();
+                        DeleteTail();
                         return;
                     }
                     var prevNode = tempNode.prev;
