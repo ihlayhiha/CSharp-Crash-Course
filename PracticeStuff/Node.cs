@@ -10,8 +10,6 @@ namespace PracticeStuff
         public Node(int value)
         {
             this.Value = value;
-            // this.next = null;
-            // this.prev = null;
         }
         
     }
