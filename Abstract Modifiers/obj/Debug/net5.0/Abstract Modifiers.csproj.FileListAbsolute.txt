@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/bin/Debug/net5.0/Abstract Modifiers
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/bin/Debug/net5.0/Abstract Modifiers.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/bin/Debug/net5.0/Abstract Modifiers.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/bin/Debug/net5.0/Abstract Modifiers.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/bin/Debug/net5.0/Abstract Modifiers.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/bin/Debug/net5.0/ref/Abstract Modifiers.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/bin/Debug/net5.0/Abstract Modifiers.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/obj/Debug/net5.0/Abstract Modifiers.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/obj/Debug/net5.0/Abstract Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/obj/Debug/net5.0/Abstract Modifiers.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/obj/Debug/net5.0/Abstract Modifiers.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/obj/Debug/net5.0/Abstract Modifiers.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/obj/Debug/net5.0/Abstract Modifiers.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/obj/Debug/net5.0/ref/Abstract Modifiers.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/obj/Debug/net5.0/Abstract Modifiers.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Abstract Modifiers/obj/Debug/net5.0/Abstract Modifiers.genruntimeconfig.cache

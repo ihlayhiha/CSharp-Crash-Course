@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Abstract Modifiers/1.0.0": {
+        "runtime": {
+          "Abstract Modifiers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstract Modifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
