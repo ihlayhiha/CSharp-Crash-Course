@@ -1,5 +1,7 @@
 ﻿using System;
 using Access_Modifiers.Amazon;
+using Access_Modifiers.MethodOverride;
+using System.Collections.Generic;
 
 namespace Access_Modifiers
 {
@@ -40,7 +42,22 @@ namespace Access_Modifiers
                 System.Console.WriteLine("This stack is already empty, so nothing Pops.");
             }
 
-            
+            // Method Override
+            var shapes = new List<Shape>();
+            // Adding 2 shape objects to the list.
+            shapes.Add(new Shape{ Width = 100, Height = 200});
+            shapes.Add(new Shape{ Width = 200, Height = 300}); 
+
+
+            // Adding a circle and rectangle object to the list.
+            // Circle and rectangle by default are also shape objects as they inherit from shape class
+            var circle = new Circle();
+            shapes.Add(circle);
+            shapes.Add(new Rectangle());
+
+            var canvas = new Canvas();
+            canvas.DrawShapes(shapes);
+
         }
     }
 }
