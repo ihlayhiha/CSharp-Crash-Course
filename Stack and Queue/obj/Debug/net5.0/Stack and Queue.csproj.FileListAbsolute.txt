@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/bin/Debug/net5.0/Stack and Queue
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/bin/Debug/net5.0/Stack and Queue.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/bin/Debug/net5.0/Stack and Queue.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/bin/Debug/net5.0/Stack and Queue.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/bin/Debug/net5.0/Stack and Queue.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/bin/Debug/net5.0/ref/Stack and Queue.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/bin/Debug/net5.0/Stack and Queue.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/obj/Debug/net5.0/Stack and Queue.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/obj/Debug/net5.0/Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/obj/Debug/net5.0/Stack and Queue.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/obj/Debug/net5.0/Stack and Queue.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/obj/Debug/net5.0/Stack and Queue.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/obj/Debug/net5.0/Stack and Queue.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/obj/Debug/net5.0/ref/Stack and Queue.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/obj/Debug/net5.0/Stack and Queue.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Stack and Queue/obj/Debug/net5.0/Stack and Queue.genruntimeconfig.cache
