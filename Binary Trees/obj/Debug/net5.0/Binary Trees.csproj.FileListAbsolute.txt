@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/bin/Debug/net5.0/Binary Trees
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/bin/Debug/net5.0/Binary Trees.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/bin/Debug/net5.0/Binary Trees.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/bin/Debug/net5.0/Binary Trees.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/bin/Debug/net5.0/Binary Trees.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/bin/Debug/net5.0/ref/Binary Trees.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/bin/Debug/net5.0/Binary Trees.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/obj/Debug/net5.0/Binary Trees.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/obj/Debug/net5.0/Binary Trees.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/obj/Debug/net5.0/Binary Trees.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/obj/Debug/net5.0/Binary Trees.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/obj/Debug/net5.0/Binary Trees.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/obj/Debug/net5.0/Binary Trees.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/obj/Debug/net5.0/ref/Binary Trees.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/obj/Debug/net5.0/Binary Trees.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/Binary Trees/obj/Debug/net5.0/Binary Trees.genruntimeconfig.cache
