@@ -32,6 +32,7 @@ namespace Binary_Trees
             DeleteBinaryTree(newBT);
             LevelOrderTraversal(newBT);
             Console.WriteLine(newBT.data);
+            
         }
 
         // Functions on Binary Trees using Linkedlist

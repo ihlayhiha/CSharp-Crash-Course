@@ -1,0 +1,16 @@
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/bin/Debug/net5.0/binary search tree
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/bin/Debug/net5.0/binary search tree.deps.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/bin/Debug/net5.0/binary search tree.runtimeconfig.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/bin/Debug/net5.0/binary search tree.runtimeconfig.dev.json
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/bin/Debug/net5.0/binary search tree.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/bin/Debug/net5.0/ref/binary search tree.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/bin/Debug/net5.0/binary search tree.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/obj/Debug/net5.0/binary search tree.csproj.AssemblyReference.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/obj/Debug/net5.0/binary search tree.GeneratedMSBuildEditorConfig.editorconfig
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/obj/Debug/net5.0/binary search tree.AssemblyInfoInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/obj/Debug/net5.0/binary search tree.AssemblyInfo.cs
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/obj/Debug/net5.0/binary search tree.csproj.CoreCompileInputs.cache
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/obj/Debug/net5.0/binary search tree.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/obj/Debug/net5.0/ref/binary search tree.dll
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/obj/Debug/net5.0/binary search tree.pdb
+/home/yella/Documents/C# Crash Course/CSharp GitRepo/CSharp-Crash-Course/binary search tree/obj/Debug/net5.0/binary search tree.genruntimeconfig.cache
