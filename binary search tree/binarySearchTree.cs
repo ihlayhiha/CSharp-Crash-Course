@@ -160,5 +160,24 @@ namespace binary_search_tree
             }
             return root;
         }
+        public static BSTNode InvertBST(BSTNode root) {
+            if (root == null) return root;
+            if (root.leftChild == null && root.rightChild == null) {
+                return root;
+            } else if (root.leftChild == null) {
+                root.leftChild = root.rightChild;
+                root.rightChild = null;
+                return root;
+            } else if (root.rightChild == null) {
+                root.rightChild = root.leftChild;
+                root.leftChild = null;
+                return root;
+            } else {
+                var temp = root.leftChild;
+                root.leftChild = InvertBST(root.rightChild);
+                root.rightChild = InvertBST(temp);
+            }
+            return root;
+        }
     }
 }

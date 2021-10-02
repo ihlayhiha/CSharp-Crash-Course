@@ -20,18 +20,19 @@ namespace Binary_Trees
             // Console.WriteLine(PreOrderTraverse(newBT));
             // Console.WriteLine(InOrderTraversal(newBT));
             // Console.WriteLine(PostOrderTraversal(newBT));
-            LevelOrderTraversal(newBT);
+            // LevelOrderTraversal(newBT);
             // Console.WriteLine(SearchTree(newBT, "coffee"));
             InsertNode(newBT, new TreeNode("cola"));
-            LevelOrderTraversal(newBT);
+            // LevelOrderTraversal(newBT);
             // var dNode = GetDeepestNode(newBT);
             // DeleteDeepestNode(newBT, dNode);
             // LevelOrderTraversal(newBT);
             // DeleteNode(newBT ,"Tea");
             // LevelOrderTraversal(newBT);
-            DeleteBinaryTree(newBT);
+            // DeleteBinaryTree(newBT);
             LevelOrderTraversal(newBT);
-            Console.WriteLine(newBT.data);
+            // Console.WriteLine(newBT.data);
+            LevelOrderTraversal(InvertBT(newBT));
             
         }
 
@@ -207,6 +208,26 @@ namespace Binary_Trees
             rootNode.leftChild = null;
             rootNode.rightChild = null;
             Console.WriteLine("Binary Tree deleted, waiting for garbage collection to clean it up");
+        }
+        public static TreeNode InvertBT(TreeNode rootNode)
+        {
+            if (rootNode == null) return rootNode;
+            if (rootNode.leftChild == null && rootNode.rightChild == null) {
+                return rootNode;
+            } else if (rootNode.leftChild == null) {
+                rootNode.leftChild = rootNode.rightChild;
+                rootNode.rightChild = null;
+                return rootNode;
+            } else if (rootNode.rightChild == null) {
+                rootNode.rightChild = rootNode.leftChild;
+                rootNode.leftChild = null;
+                return rootNode;
+            } else {
+                var temp = rootNode.leftChild;
+                rootNode.leftChild = InvertBT(rootNode.rightChild);
+                rootNode.rightChild = InvertBT(temp);
+            }
+            return rootNode;
         }
     }
 }

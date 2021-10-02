@@ -24,17 +24,18 @@ namespace binary_search_tree
             Console.WriteLine(BSTNode.MinimumKey(newBST).data);
             Console.WriteLine(BSTNode.MaximumKey(newBST).data);
             Console.WriteLine(newBST);
+            // BSTNode.PreOrderTraversal(newBST);
+            Console.WriteLine(BSTNode.InvertBST(newBST));
 
-
-            var sol = new BSTNode(65);
-            BSTNode.InsertNode(sol, 34);
-            BSTNode.InsertNode(sol, 80);
-            BSTNode.InsertNode(sol, 45);
-            BSTNode.InsertNode(sol, 77);
-            BSTNode.InsertNode(sol, 95);
-            BSTNode.InsertNode(sol, 79);
-            Console.WriteLine(sol);
-            Console.WriteLine(BSTNode.DeleteNode(sol, 65));
+            // var sol = new BSTNode(65);
+            // BSTNode.InsertNode(sol, 34);
+            // BSTNode.InsertNode(sol, 80);
+            // BSTNode.InsertNode(sol, 45);
+            // BSTNode.InsertNode(sol, 77);
+            // BSTNode.InsertNode(sol, 95);
+            // BSTNode.InsertNode(sol, 79);
+            // Console.WriteLine(sol);
+            // Console.WriteLine(BSTNode.DeleteNode(sol, 65));
             // BSTNode.DeleteEntireBST(sol);
             // Console.WriteLine(sol);
             // BSTNode.InsertNode(sol, 58);
